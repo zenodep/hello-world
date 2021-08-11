@@ -1,2 +1,6 @@
 # hello-world
-main repository
+
+Hi People
+
+Zeno here, I like to code.
+WBU?
